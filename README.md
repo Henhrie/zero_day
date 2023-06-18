@@ -1,5 +1,3 @@
-Zero_day
-------
 
 Overview
 ------
